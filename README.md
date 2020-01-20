@@ -15,6 +15,8 @@
 
 7. [DIRECT MODELING OF RAW AUDIO WITH DNNS FOR WAKE WORD DETECTION](https://m.media-amazon.com/images/G/01/amazon.jobs/2017_ASRU_Paper._CB1198675309_.pdf)
 
+8. [Hello Edge: Keyword Spotting on Microcontrollers](https://arxiv.org/pdf/1711.07128.pdf)
+
 # Videos
 1. [C5W3L10 Trigger Word Detection](https://youtu.be/Zqx_hbTmN6A)
 
