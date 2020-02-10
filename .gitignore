@@ -1,1 +1,4 @@
 notebooks/runs/*
+notebooks/models/*
+*nohup.out
+notebooks/.ipynb_checkpoints/
