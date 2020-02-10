@@ -2,3 +2,5 @@ notebooks/runs/*
 notebooks/models/*
 *nohup.out
 notebooks/.ipynb_checkpoints/
+*.wav
+.DS_Store
